@@ -1,1 +1,1 @@
-include ':ghost'
+include ':ghost', ':scroller-sample', ':viewdraghelper-sample', ':drag-sample', ':test', ':my-sound-controller', ':verticalnavigation', ':onepixel', ':colorfill'
